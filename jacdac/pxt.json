@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-makerbit-motor": "github:pelikhan/pxt-makerbit-motor",
+        "pxt-makerbit-motor": "github:1010Technologies/pxt-makerbit-motor",
         "jacdac": "github:microsoft/pxt-jacdac#v0.10.41",
         "jacdac-motor": "github:microsoft/pxt-jacdac/motor#v0.10.41"
     },
